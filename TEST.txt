@@ -5,3 +5,4 @@ Styri
 Pat
 Sest
 Sedem
+Osem
