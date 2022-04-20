@@ -3,3 +3,5 @@ Dva
 Tri
 Styri
 Pat
+Sest
+Sedem
