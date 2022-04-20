@@ -8,12 +8,11 @@ Sedem
 Osem
 Devat
 Desat
+=======
 Devat
 Desat
 Jedenast
-
+<<<<< HEAD
+Devat
 Devat
 
-=======
-Devat
->>>>>>> 1461681 (C4)
